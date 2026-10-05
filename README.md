@@ -1,4 +1,4 @@
-```
+
 # Freight Rate Prediction
 
 This project predicts freight **posted rates** using machine learning based on shipment characteristics such as distance, weight, equipment type, market conditions, date information, and geographic pickup/delivery regions.
@@ -17,7 +17,7 @@ validation_predictions.csv
 
 with exactly:
 
-```text
+```
 load_id,predicted_rate
 ```
 
