@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+
+# CatBoost temporary training files
+catboost_info/
+
+# Generated scorer files
+scorer_results/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Trained model files
+freight_rate_model.pkl
+geographic_kmeans.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
