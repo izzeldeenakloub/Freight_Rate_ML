@@ -11,7 +11,7 @@ The objective is to build a regression model that predicts `posted_rate` for fre
 
 The final model is then used to generate predictions for the unlabeled validation dataset and produce:
 
-```text
+```
 validation_predictions.csv
 ```
 
