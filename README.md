@@ -1,6 +1,4 @@
-Sure — here’s a clean README you can use directly for the repo.
-
-```markdown
+```
 # Freight Rate Prediction
 
 This project predicts freight **posted rates** using machine learning based on shipment characteristics such as distance, weight, equipment type, market conditions, date information, and geographic pickup/delivery regions.
